@@ -14,6 +14,7 @@ public:
 		return &bullet;
 	};
 
-private
+private:
+	//^^ missing :
 	Bullet bullet;
 };
