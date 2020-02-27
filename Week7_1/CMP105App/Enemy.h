@@ -12,4 +12,5 @@ public:
 	void update(float dt);
 
 	float elapsedTime;
-}
+};
+//^^missing ;
